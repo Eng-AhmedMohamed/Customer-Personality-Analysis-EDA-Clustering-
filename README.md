@@ -1,3 +1,6 @@
+***Please Run code in (colab or jupyter notebook or kaggle) to see all outputs of cells***
+
+
 # Customer Personality Analysis
 
 An unsupervised learning project using clustering algorithms to segment customers based on lifestyle and spending patterns.
